@@ -4,11 +4,6 @@ import link.credit.common.constant.FullTextCode;
 import link.credit.common.constant.NiceDecodeCode;
 import link.credit.common.constant.NiceEncodeCode;
 
-/**
- * Nice 요청 실패 Exception
- *
- * <p>Create by jsyang on 2020/09/01
- */
 public class NiceException extends RuntimeException {
 
   public NiceException(NiceEncodeCode niceEncodeCode) {

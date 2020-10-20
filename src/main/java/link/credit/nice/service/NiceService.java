@@ -6,11 +6,6 @@ import org.springframework.data.domain.Pageable;
 
 import java.util.List;
 
-/**
- * NICE 신용정보 관리
- *
- * <p>Created by jsyang on 2020/08/31
- */
 public interface NiceService {
 
   /**

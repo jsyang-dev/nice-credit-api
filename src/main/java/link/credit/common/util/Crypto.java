@@ -7,11 +7,6 @@ import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.SecretKeySpec;
 import java.nio.charset.StandardCharsets;
 
-/**
- * 암호화 모듈
- *
- * <p>Create by jsyang on 2020/09/03
- */
 public class Crypto {
 
   private static final String TRANS = "AES/CBC/PKCS5Padding";

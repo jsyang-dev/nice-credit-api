@@ -2,11 +2,6 @@ package link.credit.common.constant;
 
 import lombok.ToString;
 
-/**
- * 상수 - 전문 응답 코드
- *
- * <p>Create by jsyang on 2020/09/11
- */
 @ToString
 public enum FullTextCode {
   SUCCESS("P000", "정상"),

@@ -6,11 +6,6 @@ import org.springframework.data.jpa.repository.Query;
 
 import java.util.Optional;
 
-/**
- * NICE 신용정보 관리
- *
- * <p>Create by jsyang on 2020/09/01
- */
 public interface NiceReqRepository extends JpaRepository<NiceReq, Long> {
 
   @Query(

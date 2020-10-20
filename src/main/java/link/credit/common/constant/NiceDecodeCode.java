@@ -1,10 +1,5 @@
 package link.credit.common.constant;
 
-/**
- * 상수 - Safekey 디코딩 코드
- *
- * <p>Create by jsyang on 2020/09/02
- */
 public enum NiceDecodeCode {
   SUCCESS(0, "성공"),
   SYSTEM_ERROR(-1, "복호화 시스템 에러입니다."),

@@ -6,11 +6,6 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-/**
- * NICE 신용정보 관리
- *
- * <p>Create by jsyang on 2020/09/03
- */
 @Getter
 @Setter
 @Builder

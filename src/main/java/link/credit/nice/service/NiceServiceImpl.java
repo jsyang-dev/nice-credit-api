@@ -31,11 +31,6 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-/**
- * NICE 신용정보 관리
- *
- * <p>Create by jsyang on 2020/08/31
- */
 @Service
 @RequiredArgsConstructor
 @Slf4j

@@ -19,11 +19,6 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * 전문 Converter
- *
- * <p>Create by jsyang on 2020/09/07
- */
 @Component
 @Slf4j
 public class FullTextConverter {

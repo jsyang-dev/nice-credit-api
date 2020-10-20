@@ -9,11 +9,6 @@ import lombok.Setter;
 import lombok.ToString;
 import lombok.experimental.SuperBuilder;
 
-/**
- * 전문 - 공통부
- *
- * <p>Create by jsyang on 2020/09/07
- */
 @Getter
 @Setter
 @SuperBuilder

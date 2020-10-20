@@ -8,11 +8,6 @@ import lombok.Setter;
 
 import java.time.LocalDateTime;
 
-/**
- * NICE 신용정보 관리
- *
- * <p>Create by jsyang on 2020/09/02
- */
 public class NiceReqDTO {
 
   @Getter

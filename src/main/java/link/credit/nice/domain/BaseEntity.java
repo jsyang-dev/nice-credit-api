@@ -18,7 +18,6 @@ import javax.persistence.Id;
 import javax.persistence.MappedSuperclass;
 import java.time.LocalDateTime;
 
-/** Create by sapzape on 2020/03/20 */
 @Getter
 @Setter
 @SuperBuilder

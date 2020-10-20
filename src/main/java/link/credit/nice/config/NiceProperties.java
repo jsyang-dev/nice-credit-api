@@ -5,11 +5,6 @@ import lombok.Setter;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
-/**
- * NICE 신용정보 프로퍼티
- *
- * <p>Create by jsyang on 2020/09/03
- */
 @Getter
 @Setter
 @Component

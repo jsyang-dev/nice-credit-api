@@ -7,11 +7,6 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.experimental.SuperBuilder;
 
-/**
- * 요청 전문
- *
- * <p>Create by jsyang on 2020/09/09
- */
 @Getter
 @Setter
 @SuperBuilder

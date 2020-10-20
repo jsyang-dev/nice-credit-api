@@ -10,11 +10,6 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
-/**
- * 소켓 통신
- *
- * <p>Create by jsyang on 2020/09/07
- */
 @Component
 @Slf4j
 public class SocketSender {
