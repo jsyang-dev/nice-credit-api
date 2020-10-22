@@ -16,8 +16,6 @@ import javax.persistence.Transient;
 
 /**
  * 전문 - "요약이력정보 내역 Bitmap(63)"
- *
- * <p>Create by jsyang on 2020/09/10
  */
 @Entity
 @Table(name = "TF_CRE_CREDIT_INFO_63")

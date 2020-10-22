@@ -1,6 +1,6 @@
 package link.credit.nice.service;
 
-import link.credit.common.error.NiceException;
+import link.credit.common.exception.NiceException;
 import link.credit.common.util.Crypto;
 import link.credit.common.util.FullTextConverter;
 import link.credit.common.util.SocketSender;
