@@ -16,8 +16,6 @@ import javax.persistence.Transient;
 
 /**
  * 전문 - "채무불이행 (신용정보사) 정보내역 Bitmap(15)"
- *
- * <p>Create by jsyang on 2020/09/10
  */
 @Entity
 @Table(name = "TF_CRE_CREDIT_INFO_15")

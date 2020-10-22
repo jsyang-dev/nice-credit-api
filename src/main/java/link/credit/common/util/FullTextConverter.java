@@ -2,7 +2,7 @@ package link.credit.common.util;
 
 import link.credit.common.annotation.FullText;
 import link.credit.common.constant.FullTextCode;
-import link.credit.common.error.NiceException;
+import link.credit.common.exception.NiceException;
 import link.credit.nice.domain.CreditInfoMaster;
 import link.credit.nice.dto.FullTextCommonDTO;
 import lombok.extern.slf4j.Slf4j;

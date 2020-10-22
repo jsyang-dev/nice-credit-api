@@ -36,8 +36,6 @@ public abstract class BaseEntity {
   @Column(name = "CREATE_DT", nullable = false, updatable = false)
   private LocalDateTime createDate;
 
-  // todo(sapzape) 임시 주석 처리
-  //  @Column(name = "CREATE_USER", length = 6, nullable = false, updatable = false)
   @Column(name = "CREATE_USER", length = 6, updatable = false)
   private String createUser;
 

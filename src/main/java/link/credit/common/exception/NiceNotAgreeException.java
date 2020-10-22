@@ -1,4 +1,4 @@
-package link.credit.common.error;
+package link.credit.common.exception;
 
 public class NiceNotAgreeException extends RuntimeException {
 

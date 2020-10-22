@@ -14,11 +14,6 @@ import javax.persistence.Entity;
 import javax.persistence.Table;
 import java.time.LocalDateTime;
 
-/**
- * NICE 신용정보 관리
- *
- * <p>Create by jsyang on 2020/09/01
- */
 @Entity
 @Table(name = "TF_CRE_NICE_REQ")
 @Getter

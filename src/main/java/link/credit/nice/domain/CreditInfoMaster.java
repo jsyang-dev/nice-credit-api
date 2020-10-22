@@ -22,8 +22,6 @@ import java.util.List;
 
 /**
  * 전문개별응답부
- *
- * <p>Create by jsyang on 2020/09/09
  */
 @Entity
 @Table(name = "TF_CRE_CREDIT_INFO_MST")

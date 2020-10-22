@@ -15,8 +15,6 @@ import javax.persistence.Table;
 
 /**
  * 전문 - "특별요약정보 내역 Bitmap(61)"
- *
- * <p>Create by jsyang on 2020/09/10
  */
 @Entity
 @Table(name = "TF_CRE_CREDIT_INFO_61")

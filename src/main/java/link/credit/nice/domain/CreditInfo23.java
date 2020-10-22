@@ -16,8 +16,6 @@ import javax.persistence.Transient;
 
 /**
  * 전문 - "현금서비스 정보내역 (연합회) Bitmap(23)"
- *
- * <p>Create by jsyang on 2020/09/10
  */
 @Entity
 @Table(name = "TF_CRE_CREDIT_INFO_23")

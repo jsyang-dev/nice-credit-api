@@ -1,4 +1,4 @@
-package link.credit.common.error;
+package link.credit.common.exception;
 
 import link.credit.common.constant.FullTextCode;
 import link.credit.common.constant.NiceDecodeCode;

@@ -16,8 +16,6 @@ import javax.persistence.Transient;
 
 /**
  * 전문 - "평점이력서비스 정보내역 Bitmap(60)"
- *
- * <p>Create by jsyang on 2020/09/10
  */
 @Entity
 @Table(name = "TF_CRE_CREDIT_INFO_60")
